@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="numbers_default">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+    </array>
+    <array name="numbers_miwok">
+        <item>lutti</item>
+        <item>otiiko</item>
+        <item>tolookosu</item>
+        <item>oyyisa</item>
+        <item>massokka</item>
+        <item>temmokka</item>
+        <item>kenekaku</item>
+        <item>kawinta</item>
+        <item>wo’e</item>
+        <item>na’aacha</item>
+    </array>
+    <array name="numbers_icon">
+        <item>@drawable/number_one</item>
+        <item>@drawable/number_two</item>
+        <item>@drawable/number_three</item>
+        <item>@drawable/number_four</item>
+        <item>@drawable/number_five</item>
+        <item>@drawable/number_six</item>
+        <item>@drawable/number_seven</item>
+        <item>@drawable/number_eight</item>
+        <item>@drawable/number_nine</item>
+        <item>@drawable/number_ten</item>
+    </array>
+    <array name="numbers_audio">
+        <item>@raw/number_one</item>
+        <item>@raw/number_two</item>
+        <item>@raw/number_three</item>
+        <item>@raw/number_four</item>
+        <item>@raw/number_five</item>
+        <item>@raw/number_six</item>
+        <item>@raw/number_seven</item>
+        <item>@raw/number_eight</item>
+        <item>@raw/number_nine</item>
+        <item>@raw/number_ten</item>
+    </array>
+    <array name="colors_default">
+        <item>red</item>
+        <item>green</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>black</item>
+        <item>white</item>
+        <item>dusty yellow</item>
+        <item>mustard yellow</item>
+    </array>
+    <array name="colors_miwok">
+        <item>weṭeṭṭi</item>
+        <item>chokokki</item>
+        <item>ṭakaakki</item>
+        <item>ṭopoppi</item>
+        <item>kululli</item>
+        <item>kelelli</item>
+        <item>ṭopiisә</item>
+        <item>chiwiiṭә</item>
+    </array>
+    <array name="colors_icon">
+        <item>@drawable/color_red</item>
+        <item>@drawable/color_green</item>
+        <item>@drawable/color_brown</item>
+        <item>@drawable/color_gray</item>
+        <item>@drawable/color_black</item>
+        <item>@drawable/color_white</item>
+        <item>@drawable/color_dusty_yellow</item>
+        <item>@drawable/color_mustard_yellow</item>
+    </array>
+    <array name="colors_audio">
+        <item>@raw/color_red</item>
+        <item>@raw/color_green</item>
+        <item>@raw/color_brown</item>
+        <item>@raw/color_gray</item>
+        <item>@raw/color_black</item>
+        <item>@raw/color_white</item>
+        <item>@raw/color_dusty_yellow</item>
+        <item>@raw/color_mustard_yellow</item>
+    </array>
+    <array name="family_default">
+        <item>father</item>
+        <item>mother</item>
+        <item>son</item>
+        <item>daughter</item>
+        <item>older brother</item>
+        <item>younger brother</item>
+        <item>older sister</item>
+        <item>younger sister</item>
+        <item>grandmother</item>
+        <item>grandfather</item>
+    </array>
+    <array name="family_miwok">
+        <item>әpә</item>
+        <item>әṭa</item>
+        <item>angsi</item>
+        <item>tune</item>
+        <item>taachi</item>
+        <item>chalitti</item>
+        <item>teṭe</item>
+        <item>kolliti</item>
+        <item>ama</item>
+        <item>paapa</item>
+    </array>
+    <array name="family_icon">
+        <item>@drawable/family_father</item>
+        <item>@drawable/family_mother</item>
+        <item>@drawable/family_son</item>
+        <item>@drawable/family_daughter</item>
+        <item>@drawable/family_older_brother</item>
+        <item>@drawable/family_younger_brother</item>
+        <item>@drawable/family_older_sister</item>
+        <item>@drawable/family_younger_sister</item>
+        <item>@drawable/family_grandmother</item>
+        <item>@drawable/family_grandfather</item>
+    </array>
+    <array name="family_audio">
+        <item>@raw/family_father</item>
+        <item>@raw/family_mother</item>
+        <item>@raw/family_son</item>
+        <item>@raw/family_daughter</item>
+        <item>@raw/family_older_brother</item>
+        <item>@raw/family_younger_brother</item>
+        <item>@raw/family_older_sister</item>
+        <item>@raw/family_younger_sister</item>
+        <item>@raw/family_grandmother</item>
+        <item>@raw/family_grandfather</item>
+    </array>
+    <array name="phrases_default">
+        <item>Where are you going?</item>
+        <item>What is your name?</item>
+        <item>My name is...</item>
+        <item>How are you feeling?</item>
+        <item>I’m feeling good.</item>
+        <item>Are you coming?</item>
+        <item>Yes, I’m coming.</item>
+        <item>I’m coming.</item>
+        <item>Let’s go.</item>
+        <item>Come here.</item>
+    </array>
+    <array name="phrases_miwok">
+        <item>minto wuksus</item>
+        <item>tinnә oyaase’nә</item>
+        <item>oyaaset...</item>
+        <item>michәksәs?</item>
+        <item>kuchi achit</item>
+        <item>әәnәs’aa?</item>
+        <item>hәә’әәnәm</item>
+        <item>әәnәm</item>
+        <item>yoowutis</item>
+        <item>әnni’nem</item>
+    </array>
+    <array name="phrases_audio">
+        <item>@raw/phrase_where_are_you_going</item>
+        <item>@raw/phrase_what_is_your_name</item>
+        <item>@raw/phrase_my_name_is</item>
+        <item>@raw/phrase_how_are_you_feeling</item>
+        <item>@raw/phrase_im_feeling_good</item>
+        <item>@raw/phrase_are_you_coming</item>
+        <item>@raw/phrase_yes_im_coming</item>
+        <item>@raw/phrase_im_coming</item>
+        <item>@raw/phrase_lets_go</item>
+        <item>@raw/phrase_come_here</item>
+    </array>
+</resources>
